@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1223fbe-2ce3-40f3-961a-4e593e227225" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1364555200">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="31795" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="31795" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-80">
+              <caret line="122" selection-start-line="122" selection-end-line="122" selection-end-column="24" />
+              <folding>
+                <marker date="1536144865740" expanded="true" signature="157:398" ph="..." />
+                <marker date="1536144865740" expanded="true" signature="768:959" ph="..." />
+                <marker date="1536144865740" expanded="true" signature="1448:4166" ph="..." />
+                <marker date="1536144865740" expanded="true" signature="1731:1740" ph="..." />
+                <marker date="1536144865740" expanded="true" signature="3259:3270" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parens_match.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="74" selection-start-line="74" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Span_forest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="49" />
+              <folding>
+                <element signature="e#59#91#0" expanded="true" />
+                <marker date="1536209671825" expanded="true" signature="613:622" ph="..." />
+                <marker date="1536209671825" expanded="true" signature="1506:2355" ph="..." />
+                <marker date="1536209671825" expanded="true" signature="2552:3754" ph="..." />
+                <marker date="1536209671825" expanded="true" signature="4813:5435" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AOE_AOV.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="93" column="36" selection-start-line="93" selection-start-column="36" selection-end-line="93" selection-end-column="36" />
+              <folding>
+                <marker date="1536235980558" expanded="true" signature="366:371" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="2713:4178" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3587:3624" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3602" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3604" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3606" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3609" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3610" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3611" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3613" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3615" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3616" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3618" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3620" ph="..." />
+                <marker date="1536235980558" expanded="true" signature="3601:3622" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/priqueue_heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="62" column="16" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huffman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="e#42#69#0" expanded="true" />
+                <marker date="1535896342731" expanded="true" signature="991:1740" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Binarytree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Josephus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="28" />
+              <folding>
+                <element signature="e#45#56#0" expanded="true" />
+                <marker date="1535690609120" expanded="true" signature="654:1105" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack_queue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="122" column="24" lean-forward="true" selection-start-line="122" selection-start-column="24" selection-end-line="122" selection-end-column="24" />
+              <folding>
+                <marker date="1535546598789" expanded="true" signature="141:153" ph="..." />
+                <marker date="1535546598789" expanded="true" signature="184:185" ph="..." />
+                <marker date="1535546598789" expanded="true" signature="184:190" ph="..." />
+                <marker date="1535546598789" expanded="true" signature="332:365" ph="..." />
+                <marker date="1535546598789" expanded="true" signature="818:908" ph="..." />
+                <marker date="1535546598789" expanded="true" signature="1378:2541" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/doublelist.py" />
+        <option value="$PROJECT_DIR$/lclist.py" />
+        <option value="$PROJECT_DIR$/stack.py" />
+        <option value="$PROJECT_DIR$/singlelist.py" />
+        <option value="$PROJECT_DIR$/stack_queue.py" />
+        <option value="$PROJECT_DIR$/labyrinth.py" />
+        <option value="$PROJECT_DIR$/parens_match.py" />
+        <option value="$PROJECT_DIR$/Josephus.py" />
+        <option value="$PROJECT_DIR$/6_Binarytree_heap.py" />
+        <option value="$PROJECT_DIR$/6_prioque_heap.py" />
+        <option value="$PROJECT_DIR$/6_Binarytree.py" />
+        <option value="$PROJECT_DIR$/6_huffman.py" />
+        <option value="$PROJECT_DIR$/priqueue_heap.py" />
+        <option value="$PROJECT_DIR$/Binarytree.py" />
+        <option value="$PROJECT_DIR$/huffman.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Graph.py" />
+        <option value="$PROJECT_DIR$/Span_forest.py" />
+        <option value="$PROJECT_DIR$/AOE_AOV.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="388" />
+    <option name="y" value="65" />
+    <option name="width" value="1400" />
+    <option name="height" value="866" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="data_structrue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_structrue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data_structrue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.AOE_AOV">
+    <configuration name="AOE_AOV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structrue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AOE_AOV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structrue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Span_forest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structrue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Span_forest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="huffman" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structrue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huffman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data_structrue" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.huffman" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.Graph" />
+      <item itemvalue="Python.Span_forest" />
+      <item itemvalue="Python.AOE_AOV" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AOE_AOV" />
+        <item itemvalue="Python.Graph" />
+        <item itemvalue="Python.Span_forest" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.huffman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1223fbe-2ce3-40f3-961a-4e593e227225" name="Default Changelist" comment="" />
+      <created>1535201133024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535201133024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="388" y="65" width="1400" height="866" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992658" weight="0.27868852" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007342" side_tool="true" weight="0.53431374" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/stack.py" />
+    <entry file="file://$PROJECT_DIR$/6_Binarytree_heap.py" />
+    <entry file="file://$PROJECT_DIR$/singlelist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+          <folding>
+            <marker date="1535545604980" expanded="true" signature="59:64" ph="..." />
+            <marker date="1535545604980" expanded="true" signature="177:221" ph="..." />
+            <marker date="1535545604980" expanded="true" signature="235:1606" ph="..." />
+            <marker date="1535545604980" expanded="true" signature="2036:2037" ph="..." />
+            <marker date="1535545604980" expanded="true" signature="2195:3533" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lclist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="16" />
+          <folding>
+            <marker date="1535264691925" expanded="true" signature="89:94" ph="..." />
+            <marker date="1535264691925" expanded="true" signature="1277:1317" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doublelist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1580">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <marker date="1535262724053" expanded="true" signature="125:130" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labyrinth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+          <folding>
+            <element signature="e#46#82#0" expanded="true" />
+            <marker date="1535547668151" expanded="true" signature="131:132" ph="..." />
+            <marker date="1535547668151" expanded="true" signature="1151:1152" ph="..." />
+            <marker date="1535547668151" expanded="true" signature="2340:2382" ph="..." />
+            <marker date="1535547668151" expanded="true" signature="2933:2942" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_prioque_heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_Binarytree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_huffman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Josephus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="28" />
+          <folding>
+            <element signature="e#45#56#0" expanded="true" />
+            <marker date="1535690609120" expanded="true" signature="654:1105" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huffman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#42#69#0" expanded="true" />
+            <marker date="1535896342731" expanded="true" signature="991:1740" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/priqueue_heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="62" column="16" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parens_match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="74" selection-start-line="74" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binarytree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Span_forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="49" />
+          <folding>
+            <element signature="e#59#91#0" expanded="true" />
+            <marker date="1536209671825" expanded="true" signature="613:622" ph="..." />
+            <marker date="1536209671825" expanded="true" signature="1506:2355" ph="..." />
+            <marker date="1536209671825" expanded="true" signature="2552:3754" ph="..." />
+            <marker date="1536209671825" expanded="true" signature="4813:5435" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="122" column="24" lean-forward="true" selection-start-line="122" selection-start-column="24" selection-end-line="122" selection-end-column="24" />
+          <folding>
+            <marker date="1535546598789" expanded="true" signature="141:153" ph="..." />
+            <marker date="1535546598789" expanded="true" signature="184:185" ph="..." />
+            <marker date="1535546598789" expanded="true" signature="184:190" ph="..." />
+            <marker date="1535546598789" expanded="true" signature="332:365" ph="..." />
+            <marker date="1535546598789" expanded="true" signature="818:908" ph="..." />
+            <marker date="1535546598789" expanded="true" signature="1378:2541" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="122" selection-start-line="122" selection-end-line="122" selection-end-column="24" />
+          <folding>
+            <marker date="1536144865740" expanded="true" signature="157:398" ph="..." />
+            <marker date="1536144865740" expanded="true" signature="768:959" ph="..." />
+            <marker date="1536144865740" expanded="true" signature="1448:4166" ph="..." />
+            <marker date="1536144865740" expanded="true" signature="1731:1740" ph="..." />
+            <marker date="1536144865740" expanded="true" signature="3259:3270" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AOE_AOV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="93" column="36" selection-start-line="93" selection-start-column="36" selection-end-line="93" selection-end-column="36" />
+          <folding>
+            <marker date="1536235980558" expanded="true" signature="366:371" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="2713:4178" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3587:3624" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3602" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3604" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3606" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3609" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3610" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3611" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3613" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3615" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3616" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3618" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3620" ph="..." />
+            <marker date="1536235980558" expanded="true" signature="3601:3622" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
