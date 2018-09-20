@@ -139,3 +139,41 @@
 # 7. git checkout -b release origin/release，作用参见上一步解释
 # 8. git checkout dev，切换回dev分支，并开始开发。
 
+
+
+# git commit   --amend        撤销上一次提交  并讲暂存区文件重新提交
+# git checkout -- <file>     拉取暂存区文件 并将其替换成工作区文件
+# git reset HEAD  -- <file>  拉取最近一次提交到版本库的文件到暂存区  改操作不影响工作区
+
+
+#
+# 在使用git时，push到远端后发现commit了多余的文件，或者希望能够回退到以前的版本。
+# 先在本地回退到相应的版本：
+# git reset --hard <版本号>
+# // 注意使用 --hard 参数会抛弃当前工作区的修改
+# // 使用 --soft 参数的话会回退到之前的版本，但是保留当前工作区的修改，可以重新提交
+#
+# 如果此时使用命令：
+# git push origin <分支名>
+# 会提示本地的版本落后于远端的版本；
+# 为了覆盖掉远端的版本信息，使远端的仓库也回退到相应的版本，需要加上参数--force
+# git push origin <分支名> --force
+#
+
+
+
+#  有时候改完代码发现改错分支了，而这个时候已经add或者commit了，怎么办，有办法:
+# 1.若果已经add .  了这个时候可以使用git stash命令，具体操作命令如下：
+# （1）
+# > git stash
+# > git checkout targetbranch
+# > git stash pop
+# > git add .
+# > git commit -m xxx
+# 第一步，将修改的代码暂存到stash
+# 第二步，切换到正确的分支
+# 第三步，从stash中取出暂存的代码修改。
+# 至此，对代码的改动，就由错误的分支移动到了正确的分支。
+# 2.如果已经commit了，怎么办?
+# 使用git reset --soft HEAD^命令，就可以撤销你的本次提交了，并且还会保存你的修改，修安在就相当于是add状态了，再使用（1）的命令就解决问题了。
+
