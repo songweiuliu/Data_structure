@@ -74,8 +74,6 @@ class labyrinth():
     def mark(self,mat,pos_):
         mat[pos_[0]][pos_[1]] = 2
 
-
-
     #基于递归算法求解迷宫问题，是典型的基于递归的空间搜索问题
     #记住路径的顺序是倒着打印的
     def find_path(self,mat,pos,end):

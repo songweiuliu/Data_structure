@@ -13,6 +13,7 @@ from Graph import graph,graph_AI
 
 #存在拓扑序列的前提是网络里面不存在回路，拓扑序列未必唯一，而且拓扑序列的逆序，就是N的逆网，即所有的边反向
 #时间复杂度O（E+V）或者O（V2）
+
 def toposort(graph):
 
     vnum=graph.get_num()                                    #取顶点数值

@@ -105,6 +105,8 @@ class queue():
     def enqueue(self,_elems):
         if self.num==self.len:
             self.extend()
+            self.elem[(self.head+self.num)%self.len]=_elems
+            self.num+=1
         else:
             self.elem[(self.head+self.num)%self.len]=_elems
             self.num+=1

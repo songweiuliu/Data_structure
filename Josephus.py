@@ -6,7 +6,7 @@ from lclist import LClist
 #基于列表list解决此问题，元素个数不变的实现方法
 def josephus1(n,k,m):
     plist=list(range(1,n+1))
-    i=k-1
+    i=(k-1)%n
     cnt=0
     time1=time.time()
     while cnt<n:

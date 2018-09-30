@@ -129,7 +129,7 @@ def levelorder(t,proc):
     qu.enqueue(t)
     while not qu.is_empty():
         e=qu.dequeue()
-        if t is None:
+        if e is None:
             continue
         qu.enqueue(e.left)
         qu.enqueue(e.right)
